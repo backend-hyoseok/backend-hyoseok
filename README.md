@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backend-hyoseok&layout=compact&theme=dark#gh-dark-mode-only)
+
 <!--
 **backend-hyoseok/backend-hyoseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
