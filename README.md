@@ -6,6 +6,9 @@
 * 네이버 커넥트재단 부스트캠프 웹·모바일 7기 챌린지 (2022.07 - 2022.08)
 * Hanyang University ERICA Computer Science (2020.03 - )
 
+## Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyoseok)](https://solved.ac/hyoseok)
+
 ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backend-hyoseok&layout=compact&theme=dark#gh-dark-mode-only)
