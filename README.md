@@ -11,9 +11,12 @@
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyoseok)](https://solved.ac/hyoseok)
 
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=hyoseok&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/hyoseok)
+
 ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backend-hyoseok&layout=compact&theme=dark#gh-dark-mode-only)
+
 
 <!--
 **backend-hyoseok/backend-hyoseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
